@@ -7,17 +7,18 @@ body{
 }
 
 h2{
-  color:#2a0074;
+  color:#40017e;
    font-size:40px;
 }
-.titulo-verde{
-  color:#04ff9f;
-}
-.titulo-vermelho{
-  color:#FF9E9E;
-}
 .titulo-amarelo{
-  color:#ffe36d;
+  color:#ffb81c;;
+}
+.titulo-azul{
+  color:#03367c;
+
+}
+.titulo-verde{
+  color:#99ffff
 }
 section{
   width:60%;
@@ -48,14 +49,18 @@ ul{
 }
 a{ 
   text-decoration:none;
-  color:#99ffff;
+  color:#d2ecac;
   font-weight: 700;
   }
+a:hover {
+  background-color: #0000ff;
+}
 .principal{
   background: #ff6cb5;
   height: 40px;
   max-width: 60%;
   margin: 0 auto;
+
 }
 .principal a{
   color:#FFF;
@@ -74,3 +79,4 @@ button{
   padding:2px 20px;
   border-radius:3px;
 }
+
